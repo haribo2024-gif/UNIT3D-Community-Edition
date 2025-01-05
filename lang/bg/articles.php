@@ -14,8 +14,8 @@ declare(strict_types=1);
  */
 
 return [
-    'articles'      => 'статии',
-    'meta-articles' => 'Статии и новини за тракера и общността',
+    'articles'      => 'Статии',
+    'meta-articles' => 'Новини',
     'published-at'  => 'Публикувано на',
-    'read-more'     => 'Прочетете още',
+    'read-more'     => 'Прочети още',
 ];

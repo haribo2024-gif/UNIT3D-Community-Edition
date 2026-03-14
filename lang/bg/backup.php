@@ -13,9 +13,9 @@ return [
  */
     'actions' => 'мерки',
     'backup' => 'резервно копие',
-    'backup_doesnt_exist' => 'Резервният файл не съществува.',
-    'create_a_new_backup' => 'Създайте пълно архивиране',
-    'create_a_new_files_backup' => 'Създаване на архивиране на файлове',
+    'backup_doesnt_exist' => 'Резервният архив не съществува.',
+    'create_a_new_backup' => 'Създайте нов архив',
+    'create_a_new_files_backup' => 'Създаване на нов архив',
     'create_a_new_db_backup' => 'Създайте резервно копие на базата данни',
     'create_confirmation_message' => 'Презареждане на страницата за 3 секунди.',
     'create_confirmation_title' => 'Архивирането е завършено',
